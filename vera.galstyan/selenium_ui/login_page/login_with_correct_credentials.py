@@ -1,4 +1,3 @@
-
 #This test case was created by Vera Galstyan
 
 #!/usr/bin/env python 3
